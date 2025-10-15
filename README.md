@@ -8,6 +8,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohdez&layout=compact&langs_count=16&theme=dark"/>  
 </div>
 
+<div>
+Html 5 | CSS 5 | Java Script |Java | Phyton | PHP | Oracle | SQL Server | Mysql | Postgree | Power BI 
+
+</div>
+
 
 
 
